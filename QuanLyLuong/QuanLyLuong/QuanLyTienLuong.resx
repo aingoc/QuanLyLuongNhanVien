@@ -117,62 +117,1052 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="bKhauTruBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 128</value>
-  </metadata>
-  <metadata name="bKhauTruBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 128</value>
+  <data name="&gt;&gt;label25.Name" xml:space="preserve">
+    <value>label25</value>
+  </data>
+  <data name="label25.Text" xml:space="preserve">
+    <value>Khấu Trừ</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="txtHoDem.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;bThuongBindingSource.Name" xml:space="preserve">
+    <value>bThuongBindingSource</value>
+  </data>
+  <data name="label19.Text" xml:space="preserve">
+    <value>Phòng Ban</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label21.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 15</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_Tinh.Parent" xml:space="preserve">
+    <value>gbQLL_NLCB</value>
+  </data>
+  <data name="cbPhongBan.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="&gt;&gt;cbBacLuong.Name" xml:space="preserve">
+    <value>cbBacLuong</value>
+  </data>
+  <data name="&gt;&gt;label20.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;label15.Name" xml:space="preserve">
+    <value>label15</value>
+  </data>
+  <data name="dtGrid_QLTL.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 19</value>
+  </data>
+  <data name="&gt;&gt;txtTongLuong.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label20.Text" xml:space="preserve">
+    <value>Họ Đệm</value>
+  </data>
+  <data name="&gt;&gt;bBacLuongBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="&gt;&gt;txtHoDem.Parent" xml:space="preserve">
+    <value>gbQLL_LCB</value>
+  </data>
+  <data name="&gt;&gt;txtTen.Name" xml:space="preserve">
+    <value>txtTen</value>
+  </data>
+  <data name="&gt;&gt;bKhauTruBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtTimMa.Name" xml:space="preserve">
+    <value>txtTimMa</value>
+  </data>
+  <data name="&gt;&gt;bTroCapBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="gbQLL_XemTruoc.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="txtTimTen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>183, 21</value>
+  </data>
+  <data name="&gt;&gt;label22.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtTongLuong.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label21.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="label25.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="label16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 15</value>
+  </data>
+  <data name="label19.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label18.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;label15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label19.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="btnQLL_TimKiem.Text" xml:space="preserve">
+    <value>Tìm Kiếm</value>
+  </data>
+  <data name="label17.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>308, 93</value>
+  </data>
+  <data name="txtTimMa.Location" type="System.Drawing.Point, System.Drawing">
+    <value>118, 15</value>
+  </data>
+  <data name="&gt;&gt;label24.Parent" xml:space="preserve">
+    <value>gbQLL_NLCB</value>
+  </data>
+  <data name="&gt;&gt;label20.Name" xml:space="preserve">
+    <value>label20</value>
+  </data>
+  <data name="&gt;&gt;label23.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label15.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="txtTimMa.Size" type="System.Drawing.Size, System.Drawing">
+    <value>183, 21</value>
+  </data>
+  <data name="&gt;&gt;dtGrid_QLTL.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label23.Text" xml:space="preserve">
+    <value>Ngày Công</value>
+  </data>
+  <data name="lblUSD.Location" type="System.Drawing.Point, System.Drawing">
+    <value>256, 105</value>
+  </data>
+  <data name="&gt;&gt;quanLyTienLuongDataSet3.Name" xml:space="preserve">
+    <value>quanLyTienLuongDataSet3</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_NLCB.Name" xml:space="preserve">
+    <value>gbQLL_NLCB</value>
+  </data>
+  <data name="&gt;&gt;txtChucVu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cbNgayCong.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label21.Name" xml:space="preserve">
+    <value>label21</value>
+  </data>
+  <data name="btnQLL_Tinh.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="lblUSD.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label25.Parent" xml:space="preserve">
+    <value>gbQLL_NLCB</value>
+  </data>
+  <data name="&gt;&gt;dtGrid_QLTL.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Quan Ly Luong</value>
+  </data>
+  <data name="&gt;&gt;txtTimTen.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cbBacLuong.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;cbThuong.Parent" xml:space="preserve">
+    <value>gbQLL_NLCB</value>
+  </data>
+  <data name="btnQLL_CapNhat.Location" type="System.Drawing.Point, System.Drawing">
+    <value>188, 258</value>
+  </data>
+  <data name="&gt;&gt;quanLyTienLuongDataSet4.Name" xml:space="preserve">
+    <value>quanLyTienLuongDataSet4</value>
+  </data>
+  <data name="cbThuong.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_TimKiem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cbBacLuong.Location" type="System.Drawing.Point, System.Drawing">
+    <value>90, 19</value>
+  </data>
+  <data name="txtTongLuong.Location" type="System.Drawing.Point, System.Drawing">
+    <value>116, 104</value>
+  </data>
+  <data name="label22.Text" xml:space="preserve">
+    <value>Bậc Lương</value>
+  </data>
+  <data name="txtTimMa.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="gbQLL_XemTruoc.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;txtTimTen.Name" xml:space="preserve">
+    <value>txtTimTen</value>
+  </data>
+  <data name="gbQLL_NLCB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>351, 12</value>
+  </data>
+  <data name="label24.Text" xml:space="preserve">
+    <value>Thưởng</value>
+  </data>
+  <data name="&gt;&gt;bNgayCongBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bBacLuongTableAdapter.Type" xml:space="preserve">
+    <value>QuanLyLuong.QuanLyTienLuongDataSetTableAdapters.bBacLuongTableAdapter, QuanLyTienLuongDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="label24.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;quanLyTienLuongDataSet.Name" xml:space="preserve">
+    <value>quanLyTienLuongDataSet</value>
+  </data>
+  <data name="&gt;&gt;cbPhongBan.Name" xml:space="preserve">
+    <value>cbPhongBan</value>
+  </data>
+  <data name="label19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 15</value>
+  </data>
+  <data name="btnQLL_CapNhat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 29</value>
+  </data>
+  <data name="&gt;&gt;txtHoDem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_TimKiem.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_LCB.Name" xml:space="preserve">
+    <value>gbQLL_LCB</value>
+  </data>
+  <data name="label20.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnQLL_Xem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 258</value>
+  </data>
+  <data name="&gt;&gt;txtTongLuong.Parent" xml:space="preserve">
+    <value>gbQLL_NLCB</value>
+  </data>
+  <data name="&gt;&gt;bThuongTableAdapter.Name" xml:space="preserve">
+    <value>bThuongTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;bNgayCongTableAdapter.Type" xml:space="preserve">
+    <value>QuanLyLuong.QuanLyTienLuongDataSet2TableAdapters.bNgayCongTableAdapter, QuanLyTienLuongDataSet2.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_Tinh.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cbKhauTru.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_TimKiem.Parent" xml:space="preserve">
+    <value>gbQLL_TimKiem</value>
+  </data>
+  <data name="gbQLL_TimKiem.Text" xml:space="preserve">
+    <value>Tìm Kiếm</value>
+  </data>
+  <data name="txtTimTen.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label17.Name" xml:space="preserve">
+    <value>label17</value>
+  </data>
+  <data name="&gt;&gt;label20.Parent" xml:space="preserve">
+    <value>gbQLL_LCB</value>
+  </data>
+  <data name="gbQLL_NLCB.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btnQLL_TimKiem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>142, 78</value>
+  </data>
+  <data name="&gt;&gt;cbKhauTru.Parent" xml:space="preserve">
+    <value>gbQLL_NLCB</value>
+  </data>
+  <data name="cbThuong.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="gbQLL_XemTruoc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>658, 243</value>
+  </data>
+  <data name="&gt;&gt;label16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtTen.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_LCB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_NLCB.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="label19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 52</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cbTroCap.Location" type="System.Drawing.Point, System.Drawing">
+    <value>90, 47</value>
+  </data>
+  <data name="cbNgayCong.Location" type="System.Drawing.Point, System.Drawing">
+    <value>116, 19</value>
+  </data>
+  <data name="&gt;&gt;label21.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;cbPhongBan.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_TimKiem.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label23.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="btnQLL_Tinh.Text" xml:space="preserve">
+    <value>Tính Lương</value>
+  </data>
+  <data name="&gt;&gt;cbNgayCong.Name" xml:space="preserve">
+    <value>cbNgayCong</value>
+  </data>
+  <data name="&gt;&gt;label17.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_XemTruoc.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label22.Name" xml:space="preserve">
+    <value>label22</value>
+  </data>
+  <data name="label15.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;cbBacLuong.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="label18.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label15.Parent" xml:space="preserve">
+    <value>gbQLL_TimKiem</value>
+  </data>
+  <data name="&gt;&gt;cbTroCap.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnQLL_Xem.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_Tinh.Name" xml:space="preserve">
+    <value>btnQLL_Tinh</value>
+  </data>
+  <data name="&gt;&gt;txtTimMa.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnQLL_CapNhat.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_LCB.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnQLL_Tinh.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;quanLyTienLuongDataSet1.Name" xml:space="preserve">
+    <value>quanLyTienLuongDataSet1</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_Xem.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="gbQLL_TimKiem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>319, 120</value>
+  </data>
+  <data name="&gt;&gt;txtChucVu.Name" xml:space="preserve">
+    <value>txtChucVu</value>
+  </data>
+  <data name="label17.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="&gt;&gt;label23.Name" xml:space="preserve">
+    <value>label23</value>
+  </data>
+  <data name="label21.Text" xml:space="preserve">
+    <value>Trợ Cấp</value>
+  </data>
+  <data name="&gt;&gt;cbNgayCong.Parent" xml:space="preserve">
+    <value>gbQLL_NLCB</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtTen.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_NLCB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label24.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;quanLyTienLuongDataSet2.Name" xml:space="preserve">
+    <value>quanLyTienLuongDataSet2</value>
+  </data>
+  <data name="gbQLL_TimKiem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>351, 167</value>
+  </data>
+  <data name="&gt;&gt;txtTen.Parent" xml:space="preserve">
+    <value>gbQLL_LCB</value>
+  </data>
+  <data name="label24.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label15.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblUSD.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="cbKhauTru.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_TimKiem.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;cbBacLuong.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>gbQLL_LCB</value>
+  </data>
+  <data name="&gt;&gt;label18.Name" xml:space="preserve">
+    <value>label18</value>
+  </data>
+  <data name="&gt;&gt;label25.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lblUSD.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="gbQLL_LCB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>333, 234</value>
+  </data>
+  <data name="dtGrid_QLTL.Size" type="System.Drawing.Size, System.Drawing">
+    <value>622, 209</value>
+  </data>
+  <data name="label25.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label23.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label25.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="txtHoDem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_XemTruoc.Name" xml:space="preserve">
+    <value>gbQLL_XemTruoc</value>
+  </data>
+  <data name="&gt;&gt;label19.Name" xml:space="preserve">
+    <value>label19</value>
+  </data>
+  <data name="&gt;&gt;txtChucVu.Parent" xml:space="preserve">
+    <value>gbQLL_LCB</value>
+  </data>
+  <data name="&gt;&gt;bThuongTableAdapter.Type" xml:space="preserve">
+    <value>QuanLyLuong.QuanLyTienLuongDataSet3TableAdapters.bThuongTableAdapter, QuanLyTienLuongDataSet3.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 114</value>
+  </data>
+  <data name="gbQLL_NLCB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>319, 149</value>
+  </data>
+  <data name="txtChucVu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>184, 21</value>
+  </data>
+  <data name="btnQLL_Tinh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 23</value>
+  </data>
+  <data name="label20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>34, 25</value>
+  </data>
+  <data name="&gt;&gt;label22.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="txtTimTen.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;txtTimMa.Parent" xml:space="preserve">
+    <value>gbQLL_TimKiem</value>
+  </data>
+  <data name="cbPhongBan.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label21.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbKhauTru.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label18.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label25.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 80</value>
+  </data>
+  <data name="&gt;&gt;label23.Parent" xml:space="preserve">
+    <value>gbQLL_NLCB</value>
+  </data>
+  <data name="&gt;&gt;cbThuong.Name" xml:space="preserve">
+    <value>cbThuong</value>
+  </data>
+  <data name="&gt;&gt;label16.Parent" xml:space="preserve">
+    <value>gbQLL_TimKiem</value>
+  </data>
+  <data name="cbKhauTru.Size" type="System.Drawing.Size, System.Drawing">
+    <value>183, 23</value>
+  </data>
+  <data name="&gt;&gt;txtHoDem.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label21.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label23.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;quanLyTienLuongDataSet1.Type" xml:space="preserve">
+    <value>QuanLyLuong.QuanLyTienLuongDataSet1, QuanLyTienLuongDataSet1.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="label19.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="lblUSD.Text" xml:space="preserve">
+    <value>VND</value>
+  </data>
+  <data name="&gt;&gt;label25.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_NLCB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_Xem.Name" xml:space="preserve">
+    <value>btnQLL_Xem</value>
+  </data>
+  <data name="&gt;&gt;label19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="gbQLL_LCB.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;label17.Parent" xml:space="preserve">
+    <value>gbQLL_LCB</value>
+  </data>
+  <data name="cbPhongBan.Items1" xml:space="preserve">
+    <value>Ke Toan</value>
+  </data>
+  <data name="cbPhongBan.Items2" xml:space="preserve">
+    <value>Ke Hoach</value>
+  </data>
+  <data name="cbPhongBan.Items3" xml:space="preserve">
+    <value>Ki Thuat</value>
+  </data>
+  <data name="btnQLL_Xem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="lblUSD.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;lblUSD.Parent" xml:space="preserve">
+    <value>gbQLL_NLCB</value>
+  </data>
+  <data name="&gt;&gt;bKhauTruBindingSource.Name" xml:space="preserve">
+    <value>bKhauTruBindingSource</value>
+  </data>
+  <data name="&gt;&gt;label21.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;bBacLuongBindingSource1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label16.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_CapNhat.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnQLL_Xem.Text" xml:space="preserve">
+    <value>Xem Thông Tin</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_Tinh.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;quanLyTienLuongDataSet4.Type" xml:space="preserve">
+    <value>QuanLyLuong.QuanLyTienLuongDataSet4, QuanLyTienLuongDataSet4.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;txtTimTen.Parent" xml:space="preserve">
+    <value>gbQLL_TimKiem</value>
+  </data>
+  <data name="label22.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="&gt;&gt;label17.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="txtTimTen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>118, 51</value>
+  </data>
+  <data name="&gt;&gt;cbBacLuong.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label15.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnQLL_TimKiem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="cbPhongBan.Items" xml:space="preserve">
+    <value>Nhan Su</value>
+  </data>
+  <data name="txtTongLuong.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="label23.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 25</value>
+  </data>
+  <data name="gbQLL_LCB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="&gt;&gt;cbTroCap.Name" xml:space="preserve">
+    <value>cbTroCap</value>
+  </data>
+  <data name="txtChucVu.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_Xem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtHoDem.Name" xml:space="preserve">
+    <value>txtHoDem</value>
+  </data>
+  <data name="txtChucVu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 77</value>
+  </data>
+  <data name="&gt;&gt;lblUSD.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bNgayCongBindingSource.Name" xml:space="preserve">
+    <value>bNgayCongBindingSource</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_CapNhat.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_CapNhat.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="gbQLL_NLCB.Text" xml:space="preserve">
+    <value>Thông Tin Ngoài Lương Cơ Bản</value>
+  </data>
+  <data name="cbNgayCong.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="cbNgayCong.Size" type="System.Drawing.Size, System.Drawing">
+    <value>183, 23</value>
+  </data>
+  <data name="cbPhongBan.Items4" xml:space="preserve">
+    <value />
+  </data>
+  <data name="label24.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_TimKiem.Name" xml:space="preserve">
+    <value>gbQLL_TimKiem</value>
+  </data>
+  <data name="label16.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;bTroCapTableAdapter.Type" xml:space="preserve">
+    <value>QuanLyLuong.QuanLyTienLuongDataSet1TableAdapters.bTroCapTableAdapter, QuanLyTienLuongDataSet1.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="label25.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 15</value>
+  </data>
+  <data name="&gt;&gt;bBacLuongBindingSource.Name" xml:space="preserve">
+    <value>bBacLuongBindingSource</value>
+  </data>
+  <data name="label16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 20</value>
+  </data>
+  <data name="lblUSD.Size" type="System.Drawing.Size, System.Drawing">
+    <value>35, 15</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_CapNhat.Name" xml:space="preserve">
+    <value>btnQLL_CapNhat</value>
+  </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>Chức Vụ</value>
+  </data>
+  <data name="cbThuong.Location" type="System.Drawing.Point, System.Drawing">
+    <value>116, 46</value>
+  </data>
+  <data name="&gt;&gt;dtGrid_QLTL.Parent" xml:space="preserve">
+    <value>gbQLL_XemTruoc</value>
+  </data>
+  <data name="&gt;&gt;txtTimMa.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;bThuongBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtHoDem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 22</value>
+  </data>
+  <data name="&gt;&gt;bBacLuongBindingSource1.Name" xml:space="preserve">
+    <value>bBacLuongBindingSource1</value>
+  </data>
+  <data name="&gt;&gt;cbKhauTru.Name" xml:space="preserve">
+    <value>cbKhauTru</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>Tên</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_TimKiem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cbBacLuong.Size" type="System.Drawing.Size, System.Drawing">
+    <value>184, 23</value>
+  </data>
+  <data name="&gt;&gt;cbThuong.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label18.Parent" xml:space="preserve">
+    <value>gbQLL_LCB</value>
+  </data>
+  <data name="btnQLL_Tinh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 101</value>
+  </data>
+  <data name="&gt;&gt;label24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbTroCap.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="label23.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 15</value>
+  </data>
+  <data name="&gt;&gt;label22.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="txtTen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>258, 22</value>
+  </data>
+  <data name="btnQLL_Xem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>158, 29</value>
+  </data>
+  <data name="gbQLL_LCB.Text" xml:space="preserve">
+    <value>Thông Tin Lương Cơ Bản</value>
+  </data>
+  <data name="&gt;&gt;cbPhongBan.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbThuong.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtChucVu.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="&gt;&gt;label19.Parent" xml:space="preserve">
+    <value>gbQLL_LCB</value>
+  </data>
+  <data name="cbPhongBan.Size" type="System.Drawing.Size, System.Drawing">
+    <value>184, 23</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>QuanLyTienLuong</value>
+  </data>
+  <data name="label16.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="gbQLL_LCB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+  </data>
+  <data name="label18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>223, 25</value>
+  </data>
+  <data name="&gt;&gt;label18.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;bKhauTruTableAdapter.Type" xml:space="preserve">
+    <value>QuanLyLuong.QuanLyTienLuongDataSet4TableAdapters.bKhauTruTableAdapter, QuanLyTienLuongDataSet4.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;bTroCapTableAdapter.Name" xml:space="preserve">
+    <value>bTroCapTableAdapter</value>
+  </data>
+  <data name="cbThuong.Size" type="System.Drawing.Size, System.Drawing">
+    <value>183, 23</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>Tìm Theo Tên</value>
+  </data>
+  <data name="&gt;&gt;quanLyTienLuongDataSet2.Type" xml:space="preserve">
+    <value>QuanLyLuong.QuanLyTienLuongDataSet2, QuanLyTienLuongDataSet2.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;bBacLuongTableAdapter.Name" xml:space="preserve">
+    <value>bBacLuongTableAdapter</value>
+  </data>
+  <data name="label22.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnQLL_TimKiem.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="gbQLL_TimKiem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label19.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="label17.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;bTroCapBindingSource.Name" xml:space="preserve">
+    <value>bTroCapBindingSource</value>
+  </data>
+  <data name="&gt;&gt;txtChucVu.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 15</value>
+  </data>
+  <data name="&gt;&gt;txtTen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbNgayCong.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;txtTen.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="label18.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="cbBacLuong.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="label22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 15</value>
+  </data>
+  <data name="gbQLL_NLCB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+  </data>
+  <data name="gbQLL_XemTruoc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 293</value>
+  </data>
+  <data name="&gt;&gt;cbTroCap.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label20.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="txtHoDem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 21</value>
+  </data>
+  <data name="cbTroCap.Size" type="System.Drawing.Size, System.Drawing">
+    <value>184, 23</value>
+  </data>
+  <data name="label21.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;label20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>34, 80</value>
+  </data>
+  <data name="cbTroCap.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>689, 544</value>
+  </data>
+  <data name="label23.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;txtTongLuong.Name" xml:space="preserve">
+    <value>txtTongLuong</value>
+  </data>
+  <data name="label16.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2, 51</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_LCB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bNgayCongTableAdapter.Name" xml:space="preserve">
+    <value>bNgayCongTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_TimKiem.Name" xml:space="preserve">
+    <value>btnQLL_TimKiem</value>
+  </data>
+  <data name="&gt;&gt;txtTimTen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;quanLyTienLuongDataSet.Type" xml:space="preserve">
+    <value>QuanLyLuong.QuanLyTienLuongDataSet, QuanLyTienLuongDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="cbTroCap.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="btnQLL_CapNhat.Text" xml:space="preserve">
+    <value>Cập Nhật</value>
+  </data>
+  <data name="gbQLL_XemTruoc.Text" xml:space="preserve">
+    <value>Xem Trước</value>
+  </data>
+  <data name="&gt;&gt;label16.Name" xml:space="preserve">
+    <value>label16</value>
+  </data>
+  <data name="cbPhongBan.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 49</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_XemTruoc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbPhongBan.Parent" xml:space="preserve">
+    <value>gbQLL_LCB</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>Tìm Theo Mã</value>
+  </data>
+  <data name="label20.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="btnQLL_TimKiem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>122, 25</value>
+  </data>
+  <data name="cbKhauTru.Location" type="System.Drawing.Point, System.Drawing">
+    <value>116, 74</value>
+  </data>
+  <data name="btnQLL_CapNhat.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="txtTen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 21</value>
+  </data>
+  <data name="&gt;&gt;cbNgayCong.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gbQLL_XemTruoc.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label22.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2, 20</value>
+  </data>
+  <data name="&gt;&gt;bKhauTruTableAdapter.Name" xml:space="preserve">
+    <value>bKhauTruTableAdapter</value>
+  </data>
+  <data name="gbQLL_TimKiem.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 15</value>
+  </data>
+  <data name="label21.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 48</value>
+  </data>
+  <data name="txtTimMa.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;quanLyTienLuongDataSet3.Type" xml:space="preserve">
+    <value>QuanLyLuong.QuanLyTienLuongDataSet3, QuanLyTienLuongDataSet3.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnQLL_Xem.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label24.Name" xml:space="preserve">
+    <value>label24</value>
+  </data>
+  <data name="label17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 15</value>
+  </data>
+  <data name="&gt;&gt;lblUSD.Name" xml:space="preserve">
+    <value>lblUSD</value>
+  </data>
+  <data name="label24.Size" type="System.Drawing.Size, System.Drawing">
+    <value>55, 15</value>
+  </data>
+  <data name="txtTongLuong.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="txtTongLuong.Size" type="System.Drawing.Size, System.Drawing">
+    <value>134, 21</value>
+  </data>
+  <data name="dtGrid_QLTL.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 15</value>
+  </data>
+  <data name="&gt;&gt;cbKhauTru.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;dtGrid_QLTL.Name" xml:space="preserve">
+    <value>dtGrid_QLTL</value>
+  </data>
+  <data name="label22.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9pt, style=Bold</value>
+  </data>
+  <data name="label24.Location" type="System.Drawing.Point, System.Drawing">
+    <value>38, 52</value>
+  </data>
+  <metadata name="bNgayCongBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>526, 54</value>
   </metadata>
   <metadata name="quanLyTienLuongDataSet4.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>530, 91</value>
   </metadata>
-  <metadata name="quanLyTienLuongDataSet4.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>530, 91</value>
-  </metadata>
-  <metadata name="bThuongBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>202, 91</value>
-  </metadata>
-  <metadata name="bThuongBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>202, 91</value>
-  </metadata>
-  <metadata name="quanLyTienLuongDataSet3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 91</value>
-  </metadata>
-  <metadata name="quanLyTienLuongDataSet3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 91</value>
-  </metadata>
-  <metadata name="bNgayCongBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>526, 54</value>
-  </metadata>
-  <metadata name="bNgayCongBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>526, 54</value>
-  </metadata>
-  <metadata name="quanLyTienLuongDataSet2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>341, 54</value>
-  </metadata>
-  <metadata name="quanLyTienLuongDataSet2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>341, 54</value>
-  </metadata>
   <metadata name="bTroCapBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 54</value>
-  </metadata>
-  <metadata name="bTroCapBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 54</value>
-  </metadata>
-  <metadata name="quanLyTienLuongDataSet1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>545, 17</value>
-  </metadata>
-  <metadata name="quanLyTienLuongDataSet1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>545, 17</value>
-  </metadata>
-  <metadata name="bBacLuongBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>354, 128</value>
-  </metadata>
-  <metadata name="bBacLuongBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>354, 128</value>
-  </metadata>
-  <metadata name="quanLyTienLuongDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
   </metadata>
   <metadata name="quanLyTienLuongDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
@@ -180,19 +1170,40 @@
   <metadata name="bBacLuongBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>196, 17</value>
   </metadata>
-  <metadata name="bBacLuongTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>373, 17</value>
+  <metadata name="bKhauTruBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 128</value>
+  </metadata>
+  <metadata name="bKhauTruTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>188, 128</value>
   </metadata>
   <metadata name="bTroCapTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>181, 54</value>
   </metadata>
+  <metadata name="quanLyTienLuongDataSet3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 91</value>
+  </metadata>
+  <metadata name="bBacLuongTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>373, 17</value>
+  </metadata>
+  <metadata name="quanLyTienLuongDataSet2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>341, 54</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="quanLyTienLuongDataSet1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>545, 17</value>
+  </metadata>
+  <metadata name="bBacLuongBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>354, 128</value>
+  </metadata>
   <metadata name="bNgayCongTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>705, 54</value>
   </metadata>
+  <metadata name="bThuongBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>202, 91</value>
+  </metadata>
   <metadata name="bThuongTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>368, 91</value>
-  </metadata>
-  <metadata name="bKhauTruTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>188, 128</value>
   </metadata>
 </root>

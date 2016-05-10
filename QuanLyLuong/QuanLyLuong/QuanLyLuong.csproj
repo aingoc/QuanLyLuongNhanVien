@@ -63,7 +63,6 @@
       <DependentUpon>BaoMatPhanQuyen.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
-      <SubType>Designer</SubType>
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">

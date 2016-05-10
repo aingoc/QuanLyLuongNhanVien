@@ -5,10 +5,10 @@ D:\C#\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.exe
 D:\C#\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.pdb
 D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csprojResolveAssemblyReference.cache
 D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.BaoMatPhanQuyen.resources
-D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.frmLogin.resources
 D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.Properties.Resources.resources
 D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.QuanLyNhanVien.resources
 D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.QuanLyTienLuong.resources
 D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.QuanTri.resources
 D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.ThanhToan.resources
 D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csproj.GenerateResource.Cache
+D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.Login.resources
