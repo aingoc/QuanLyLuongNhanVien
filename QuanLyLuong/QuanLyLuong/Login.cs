@@ -26,7 +26,7 @@ namespace QuanLyLuong
             string url;
             string strSQL;
             DataSet ds = new DataSet();
-            url = @"Data Source = AVONUNAKVJWIFSD\SQLEXPRESS; Initial Catalog = QuanLyTienLuong; User ID = AVONUNAKVJWIFSD\\Administrator; password =";
+            url = @"Data Source = AVONUNAKVJWIFSD\SQLEXPRESS; Initial Catalog = QuanLyTienLuong; Integrated Security=True";
             
             try
             {
