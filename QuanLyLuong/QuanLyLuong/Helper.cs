@@ -6,9 +6,9 @@ using System.Text;
 
 namespace QuanLyLuong
 {
-  static class Helper
+  public static class Helper
   {
-    static public SqlConnection getConnection()
+    public static SqlConnection getConnection()
     {
       var url = ConfigurationManager.ConnectionStrings["dev"].ConnectionString;
       return new SqlConnection(url);
