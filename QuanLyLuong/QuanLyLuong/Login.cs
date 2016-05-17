@@ -24,7 +24,7 @@ namespace QuanLyLuong
         using (var conn = Helper.getConnection())
         {
           var sql = string.Format(@"
-          SELECT MaPQ, TenTK, Pass FORM bQuanTri
+          SELECT MaPQ, TenTK, Pass FROM bQuanTri
           WHERE TenTK='{0}' AND Pass='{1}'", txtTaiKhoan.Text, txtMatKhau.Text);
 
           using (var command = new SqlCommand(sql, conn))
