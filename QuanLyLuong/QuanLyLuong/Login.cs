@@ -38,7 +38,7 @@ namespace QuanLyLuong
                 QuanTri frmQuanTri = new QuanTri();
                 frmQuanTri.Show();
 
-                this.Close();
+//              this.Close();
               }
               else
               {
