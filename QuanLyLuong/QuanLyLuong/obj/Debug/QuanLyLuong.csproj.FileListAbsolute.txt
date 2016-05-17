@@ -1,1 +1,15 @@
 D:\OneDrive\giautm\devel\ws-visualstudio\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.exe.config
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.exe.config
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.exe
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.pdb
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.BaoMatPhanQuyen.resources
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.Login.resources
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.Properties.Resources.resources
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.QuanLyNhanVien.resources
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.QuanLyTienLuong.resources
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.QuanTri.resources
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.ThanhToan.resources
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.exe
+C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.pdb

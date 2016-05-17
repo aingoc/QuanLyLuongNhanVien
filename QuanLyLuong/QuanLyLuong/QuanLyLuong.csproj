@@ -119,26 +119,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>QuanLyTienLuongDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="QuanLyTienLuongDataSet1.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>QuanLyTienLuongDataSet1.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="QuanLyTienLuongDataSet2.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>QuanLyTienLuongDataSet2.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="QuanLyTienLuongDataSet3.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>QuanLyTienLuongDataSet3.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="QuanLyTienLuongDataSet4.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>QuanLyTienLuongDataSet4.xsd</DependentUpon>
-    </Compile>
     <Compile Include="QuanTri.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -167,50 +147,6 @@
     </None>
     <None Include="QuanLyTienLuongDataSet.xss">
       <DependentUpon>QuanLyTienLuongDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="QuanLyTienLuongDataSet1.xsc">
-      <DependentUpon>QuanLyTienLuongDataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="QuanLyTienLuongDataSet1.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>QuanLyTienLuongDataSet1.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="QuanLyTienLuongDataSet1.xss">
-      <DependentUpon>QuanLyTienLuongDataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="QuanLyTienLuongDataSet2.xsc">
-      <DependentUpon>QuanLyTienLuongDataSet2.xsd</DependentUpon>
-    </None>
-    <None Include="QuanLyTienLuongDataSet2.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>QuanLyTienLuongDataSet2.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="QuanLyTienLuongDataSet2.xss">
-      <DependentUpon>QuanLyTienLuongDataSet2.xsd</DependentUpon>
-    </None>
-    <None Include="QuanLyTienLuongDataSet3.xsc">
-      <DependentUpon>QuanLyTienLuongDataSet3.xsd</DependentUpon>
-    </None>
-    <None Include="QuanLyTienLuongDataSet3.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>QuanLyTienLuongDataSet3.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="QuanLyTienLuongDataSet3.xss">
-      <DependentUpon>QuanLyTienLuongDataSet3.xsd</DependentUpon>
-    </None>
-    <None Include="QuanLyTienLuongDataSet4.xsc">
-      <DependentUpon>QuanLyTienLuongDataSet4.xsd</DependentUpon>
-    </None>
-    <None Include="QuanLyTienLuongDataSet4.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>QuanLyTienLuongDataSet4.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="QuanLyTienLuongDataSet4.xss">
-      <DependentUpon>QuanLyTienLuongDataSet4.xsd</DependentUpon>
     </None>
     <None Include="Resources\rapport2002_391.jpg" />
   </ItemGroup>
