@@ -27,11 +27,9 @@ namespace QuanLyLuong
       string url;
       string strSQL;
       DataSet ds = new DataSet();
-      url = ConfigurationManager.ConnectionStrings["dev"].ConnectionString;
-
       try
       {
-        conn = new SqlConnection(url);
+        conn = Helper.getConnection();
         conn.Open();
       }
       catch (Exception excep)

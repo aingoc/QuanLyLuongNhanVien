@@ -26,8 +26,8 @@ namespace QuanLyLuong.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=TIEN-A62E5B5725;Initial Catalog=QuanLyTienLuong;Integrated Security=T" +
-            "rue")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=AVONUNAKVJWIFSD\\SQLEXPRESS;Initial Catalog=QuanLyTienLuong;Integrated" +
+            " Security=True")]
         public string QuanLyTienLuongConnectionString {
             get {
                 return ((string)(this["QuanLyTienLuongConnectionString"]));

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Data.SqlClient;
-using System.Text;
+﻿using System.Data.SqlClient;
 
 namespace QuanLyLuong
 {
@@ -10,7 +6,7 @@ namespace QuanLyLuong
   {
     public static SqlConnection getConnection()
     {
-      var url = ConfigurationManager.ConnectionStrings["dev"].ConnectionString;
+      var url = QuanLyLuong.Properties.Settings.Default.QuanLyTienLuongConnectionString;
       return new SqlConnection(url);
     }
   }
