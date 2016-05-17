@@ -12,3 +12,6 @@ D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.QuanTri.resources
 D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.ThanhToan.resources
 D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csproj.GenerateResource.Cache
 D:\C#\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.Login.resources
+D:\OneDrive\giautm\devel\ws-visualstudio\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.exe.config
+D:\OneDrive\giautm\devel\ws-visualstudio\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.exe
+D:\OneDrive\giautm\devel\ws-visualstudio\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.pdb
