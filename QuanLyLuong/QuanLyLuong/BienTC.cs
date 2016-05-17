@@ -4,9 +4,8 @@ using System.Text;
 
 namespace QuanLyLuong
 {
-    public class BienTC
-    {
-        public static string MaPhanQuyen;
-    }
+  public class BienTC
+  {
+    public static string MaPhanQuyen;
+  }
 }
-

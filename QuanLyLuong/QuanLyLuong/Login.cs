@@ -12,9 +12,6 @@ namespace QuanLyLuong
 {
   public partial class Login : Form
   {
-    private SqlConnection conn;
-    private SqlCommand commnd;
-    private SqlDataAdapter da;
     public Login()
     {
       InitializeComponent();
@@ -22,69 +19,42 @@ namespace QuanLyLuong
 
     private void btnDangNhap_Click_1(object sender, EventArgs e)
     {
-      string name = txtTaiKhoan.Text;
-      string pass = txtMatKhau.Text;
-      string url;
-      string strSQL;
-      DataSet ds = new DataSet();
       try
       {
-        conn = Helper.getConnection();
-        conn.Open();
-      }
-      catch (Exception excep)
-      {
-        MessageBox.Show("Có vấn đề khi kết nối đến CSDL", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-        MessageBox.Show(excep.Message);
-        MessageBox.Show(excep.StackTrace);
-      }
-      strSQL = "Select MaPQ,TenTK,Pass from bQuanTri";
-      try
-      {
-        commnd = new SqlCommand(strSQL, conn);
-      }
-      catch (Exception excep)
-      {
-        MessageBox.Show("Có vấn đề khi truy vấn đến CSDL", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-        MessageBox.Show(excep.Message);
-        MessageBox.Show(excep.StackTrace);
-      }
-      try
-      {
-        da = new SqlDataAdapter(commnd);
-        da.Fill(ds, "DangNhap");
-
-      }
-      catch (Exception excep)
-      {
-        MessageBox.Show("Có vấn đề khi tao ra dataset", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-        MessageBox.Show(excep.Message);
-        MessageBox.Show(excep.StackTrace);
-      }
-      if (ds.Tables["DangNhap"].Rows.Count == 0)
-
-      {
-        MessageBox.Show("Không có dữ liệu trong cơ sở dữ liệu");
-        conn.Close();
-      }
-      Boolean check = false;
-      for (int i = 0; i < ds.Tables["DangNhap"].Rows.Count; i++)
-      {
-        if (ds.Tables["DangNhap"].Rows[i]["TenTK"].ToString() == name && ds.Tables["DangNhap"].Rows[i]["Pass"].ToString() == pass)
+        using (var conn = Helper.getConnection())
         {
-          BienTC.MaPhanQuyen = ds.Tables["DangNhap"].Rows[i]["MaPQ"].ToString();
-          check = true;
-          i = ds.Tables["DangNhap"].Rows.Count;
+          var sql = string.Format(@"
+          SELECT MaPQ, TenTK, Pass FORM bQuanTri
+          WHERE TenTK='{0}' AND Pass='{1}'", txtTaiKhoan.Text, txtMatKhau.Text);
+
+          using (var command = new SqlCommand(sql, conn))
+          {
+            conn.Open();
+            using (var reader = command.ExecuteReader())
+            {
+              if (reader.Read())
+              {
+                BienTC.MaPhanQuyen = reader.GetString(reader.GetOrdinal("MaPQ"));
+                QuanTri frmQuanTri = new QuanTri();
+                frmQuanTri.Show();
+
+                this.Close();
+              }
+              else
+              {
+                MessageBox.Show("Bạn Nhập Sai Tên Tài Khoản hoặc Pass", "Thông Báo",
+                  MessageBoxButtons.OK, MessageBoxIcon.Error);
+              }
+            }
+          }
         }
       }
-      if (check == false)
+      catch (Exception excep)
       {
-        MessageBox.Show("Bạn Nhập Sai Tên Tài Khoản hoặc Pass", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
-      }
-      else
-      {
-        QuanTri frmQuanTri = new QuanTri();
-        frmQuanTri.Show();
+        MessageBox.Show("Có vấn đề khi kết nối đến CSDL", "Thông báo",
+          MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        MessageBox.Show(excep.Message);
+        MessageBox.Show(excep.StackTrace);
       }
     }
 
