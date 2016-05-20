@@ -13,3 +13,17 @@ C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLu
 C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csproj.GenerateResource.Cache
 C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.exe
 C:\Users\Administrator\Downloads\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.pdb
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.exe.config
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.exe
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.pdb
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.exe
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.pdb
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csprojResolveAssemblyReference.cache
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.BaoMatPhanQuyen.resources
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.Login.resources
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.Properties.Resources.resources
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.QuanLyNhanVien.resources
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.QuanLyTienLuong.resources
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.QuanTri.resources
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.ThanhToan.resources
+D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csproj.GenerateResource.Cache

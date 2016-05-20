@@ -6,6 +6,6 @@ namespace QuanLyLuong
 {
   public class BienTC
   {
-    public static string MaPhanQuyen;
+    public static int MaPhanQuyen;
   }
 }

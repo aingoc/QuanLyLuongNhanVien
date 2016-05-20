@@ -34,11 +34,10 @@ namespace QuanLyLuong
             {
               if (reader.Read())
               {
-                BienTC.MaPhanQuyen = reader.GetString(reader.GetOrdinal("MaPQ"));
+                BienTC.MaPhanQuyen = reader.GetInt32(reader.GetOrdinal("MaPQ"));
                 QuanTri frmQuanTri = new QuanTri();
                 frmQuanTri.Show();
 
-//              this.Close();
               }
               else
               {
