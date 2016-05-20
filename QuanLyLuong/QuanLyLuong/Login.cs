@@ -36,6 +36,7 @@ namespace QuanLyLuong
               {
                 BienTC.MaPhanQuyen = reader.GetInt32(reader.GetOrdinal("MaPQ"));
                 QuanTri frmQuanTri = new QuanTri();
+                this.Hide();
                 frmQuanTri.Show();
 
               }
