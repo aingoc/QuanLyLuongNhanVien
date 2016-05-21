@@ -27,3 +27,6 @@ D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.QuanLyTi
 D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.QuanTri.resources
 D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.ThanhToan.resources
 D:\C#\QuanLyLuongNhanVien\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Video\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\bin\Debug\QuanLyLuong.exe.config
+C:\Users\Administrator\Downloads\Video\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.exe
+C:\Users\Administrator\Downloads\Video\QuanLyLuongNhanVien-master\QuanLyLuong\QuanLyLuong\obj\Debug\QuanLyLuong.pdb
